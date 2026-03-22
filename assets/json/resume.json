@@ -1,221 +1,292 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carlos A. Leyva-Capote",
+    "label": "Researcher",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "carlos.leyva@upr.edu",
+    "phone": "(787) 368-9541",
+    "summary": "Applied Mathematics M.S. student at UPRM researching computational cognitive modeling, neural-symbolic AI, and natural language processing.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Mayag\u00fcez",
       "countryCode": "US",
-      "region": "California"
+      "region": "Puerto Rico"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "cleyva2020",
+        "url": "https://github.com/cleyva2020"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "carlos-leyva-capote",
+        "url": "https://linkedin.com/in/carlos-leyva-capote"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "YouTube (Google)",
+      "position": "Software Engineering Intern - Personalized Bitrate",
+      "location": "San Bruno, CA",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "summary": "",
+      "highlights": [
+        "Engineered analysis pipelines to evaluate video upscaling algorithms and ML models using Universal Video Quality (UVQ) metrics, informing bitrate optimization decisions for YouTube Shorts."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "Google Devices & Services - Pixel",
+      "position": "Software Engineering Intern - Spatial Audio Team",
+      "location": "Mountain View, CA",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Delivered a proof-of-concept for a 50KB multimodal enhancement model for speech recognition, leading to $1M savings in data acquisition for retraining a 50MB model.",
+        "Prototyped a 6DOF spatial audio system with virtual assistant integration for enhanced environmental interaction (Unity, C#) and presented to upper-level management."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "Google Cloud Platform",
+      "position": "STEP Intern - Proactive Intelligence Team",
+      "location": "Sunnyvale, CA",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Delivered end-to-end NLU feature for proactive assistive suggestions in Google Workspace."
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "Johns Hopkins University Applied Physics Laboratory (JHU APL)",
+      "position": "AI Researcher, AI, Neuroscience, and Complex Systems Group",
+      "location": "Laurel, MD",
+      "startDate": "2025-05-01",
+      "endDate": "",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Developing a multimodal speech-decoding framework fusing video, audio, and neural signals to support assistive communication for speakers with dysarthria.",
+        "Conducted modality ablation studies, improving Phoneme Error Rate by 12% and WER by 11% over baseline.",
+        "Architected an agentic laboratory system using Vision-Language Models (VLMs) to orchestrate visual inspection and automate experimental decision-making."
+      ]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "Climate TRACE",
+      "position": "Contributor, Transportation and Fleet Modeling",
+      "location": "Laurel, MD",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Developed a hierarchical Bayesian model to infer vehicle fleet composition for regions lacking reliable statistics, directly supporting global emissions estimation.",
+        "Designed a stratified sampling workflow for data augmentation using computer vision models."
+      ]
+    },
+    {
+      "name": "MIT Lincoln Laboratory",
+      "position": "Research Co-op, AI Technology and Systems Group",
+      "location": "Lexington, MA",
+      "startDate": "2022-05-01",
+      "endDate": "2024-12-01",
+      "summary": "",
+      "highlights": [
+        "Designed data augmentation architecture using knowledge graphs for few-shot authorship verification.",
+        "Achieved 92% obfuscation and 78% impersonation success rates via LLM-based adversarial attacks."
+      ]
+    },
+    {
+      "name": "National Science Foundation - Computational Linguistics Group",
+      "position": "Research Assistant, HASPNeL Project",
+      "location": "Mayag\u00fcez, PR",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Developing a cognitively plausible neural-symbolic parser for syntactic disambiguation."
+      ]
+    },
+    {
+      "name": "National Science Foundation LREU",
+      "position": "Undergraduate Research Fellow - Hybrid Paradigms in AI",
+      "location": "Mayag\u00fcez, PR",
+      "startDate": "2023-09-01",
+      "endDate": "2024-11-01",
+      "summary": "",
+      "highlights": [
+        "Synthesized literature on symbolic vs. connectionist approaches to analyze the divergence between LLM reasoning and human cognitive processes in structured tasks."
+      ]
+    },
+    {
+      "name": "Computing Alliance for Hispanic-Serving Institutions",
+      "position": "AI Research - Automatic Dysarthric Speech Recognition",
+      "location": "Mayag\u00fcez, PR",
+      "startDate": "2021-02-01",
+      "endDate": "2021-12-01",
+      "summary": "",
+      "highlights": [
+        "Fine-tuned ASR models via supervised teacher-student distillation, achieving 48% WER for extreme dysarthria."
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "University of Puerto Rico, Mayag\u00fcez",
+      "location": "Mayag\u00fcez, PR",
+      "url": "https://www.uprm.edu/",
+      "area": "Applied Mathematics",
+      "studyType": "M.S.",
+      "startDate": "2025-08-01",
+      "endDate": "2027-05-01",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Focus: Artificial Intelligence, Machine Learning, Numerical Analysis",
+        "Thesis: Multimodal Sentence Interpretation Embeddings",
+        "Awards: GEM Fellowship Recipient"
+      ]
+    },
+    {
+      "institution": "University of Puerto Rico, Mayag\u00fcez",
+      "location": "Mayag\u00fcez, PR",
+      "url": "https://www.uprm.edu/",
+      "area": "Computer Science and Engineering",
+      "studyType": "B.S.",
+      "startDate": "2020-08-01",
+      "endDate": "2025-05-01",
+      "score": "3.83",
+      "courses": [],
+      "highlights": [
+        "Specialization: Curricular Sequence in Cognitive Science",
+        "GPA: 3.83 / 4.00, Magna Cum Laude"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
+      "title": "GEM Fellowship",
+      "date": "2025-01-01",
+      "awarder": "National GEM Consortium",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "title": "Tau Beta Pi",
+      "date": "2024-01-01",
+      "awarder": "Engineering Honor Society",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "title": "Google Tech Exchange Scholar",
+      "date": "2023-01-01",
+      "awarder": "Google",
+      "summary": ""
+    },
+    {
+      "title": "Lockheed Martin Scholarship",
+      "date": "2021-01-01",
+      "awarder": "Lockheed Martin",
+      "summary": ""
+    },
+    {
+      "title": "First Place, Computing Presentation",
+      "date": "2021-01-01",
+      "awarder": "Great Minds in STEM Conference",
+      "summary": "Awarded for: \"Towards Automatic Dysarthric Speech Recognition\""
     }
   ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Masks and Mimicry: Strategic Obfuscation and Impersonation Attacks on Authorship Verification",
+      "publisher": "NLP4DH Workshop @ NAACL 2025",
+      "releaseDate": "2025-01-01",
+      "url": "https://arxiv.org/abs/2503.19099",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Cognitively Plausible Neural-Symbolic Model for Syntactic Disambiguation in Minimalist Grammar",
+      "publisher": "ICAART 2026",
+      "releaseDate": "2026-03-01",
+      "url": "",
+      "summary": "Accepted/In Press"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
+      "level": "",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python", "C++", "C", "Java", "C#", "R", "MATLAB", "SQL", "LaTeX"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch", "JAX", "TensorFlow", "Hugging Face", "Unity"
+      ]
+    },
+    {
+      "name": "Scientific Computing",
+      "level": "",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "NumPy", "Pandas", "Scikit-learn", "Tidyverse (R)", "Plotly"
+      ]
+    },
+    {
+      "name": "Infrastructure & Tools",
+      "level": "",
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "Linux", "Git", "SLURM (HPC)", "Google Cloud Platform (GCP)", "Docker"
+      ]
+    },
+    {
+      "name": "Research Methodologies",
+      "level": "",
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "Neural-Symbolic AI", "Multimodal AI", "Bayesian Inference", "NLP"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Native/Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Native/Fluent",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Computational Cognitive Modeling",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Inductive Biases",
+        "Cognitive AI",
+        "Language Understanding"
+      ]
+    },
+    {
+      "name": "Neural-Symbolic AI",
+      "icon": "fa-solid fa-diagram-project",
+      "keywords": [
+        "Hybrid Architectures",
+        "Minimalist Grammar",
+        "Compositional Semantics"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
-    }
-  ]
+  "references": [],
+  "projects": []
 }

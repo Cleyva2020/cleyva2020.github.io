@@ -2,33 +2,48 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href="https://www.uprm.edu/">University of Puerto Rico, Mayag&uuml;ez</a> &bull; Applied Mathematics M.S. &bull; Aspiring PhD Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Puerto Rico</p>
+    <p>Mayag&uuml;ez, PR</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 6
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Research Interests:** I am interested in using computational cognitive modeling to reveal our inductive biases and leverage those insights to build better learning systems (Cognitive AI). My work spans **language as a medium for understanding cognition**, and **neural-symbolic approaches** that bridge connectionist and symbolic paradigms.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At [UPRM](https://www.uprm.edu/) I am pursuing my **Applied Mathematics M.S.**, co-advised by [Roberto Rivera](https://www.uprm.edu/math/dt_team/roberto-rivera-santiago/) and [Hilton Alers-Valent&iacute;n](https://www.uprm.edu/p/linguistica/hilton). I am building a [Symbolic Parser](https://sandiway.arizona.edu/smtparser/index.html) and [Neural Lexicon (HASPNeL)](https://www.uprm.edu/cps-iot/nlp/) in collaboration with [Sandiway Fong](https://www.cs.arizona.edu/person/sandiway-fong) at the University of Arizona.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) in the AI Technology and Systems group on data augmentation architectures for few-shot authorship verification.
+
+I am **applying to PhD programs to start in Fall 2027**, with interest in working with [Joshua Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Jacob Andreas](https://www.mit.edu/~jda/) at **MIT EECS/BCS**.
+
+**Fun fact:** Noam Chomsky is my great-grand advisor twice (C. Leyva &rarr; H. Alers &rarr; J. McCarthy / Barbara Partee &rarr; N. Chomsky).
+
+---
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <h4>ICAART 2026 Presentation</h4>
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Ikzi_30o9YU?start=51" title="ICAART 2026 Presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
