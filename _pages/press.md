@@ -3,7 +3,7 @@ layout: page
 title: press
 permalink: /press/
 description: Presentations, media appearances, and press coverage.
-nav: true
+nav: false
 nav_order: 5
 ---
 

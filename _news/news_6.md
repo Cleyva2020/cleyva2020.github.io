@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from UPRM with a **B.S. in Computer Science and Engineering** with Curricular Sequence in Cognitive Science, **Magna Cum Laude** (GPA: 3.83/4.00).
+Graduated from UPRM with a **B.S. in Computer Science and Engineering** with Curricular Sequence in Cognitive Science, **Magna Cum Laude**.

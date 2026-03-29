@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted into the **Applied Mathematics M.S.** program at the University of Puerto Rico, Mayag&uuml;ez.
+Started the **Applied Mathematics M.S.** program at the University of Puerto Rico, Mayag&uuml;ez.
