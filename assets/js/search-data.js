@@ -16,26 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-industry",
-          title: "industry",
-          description: "Industry and research experience.",
+        },{id: "nav-experiences",
+          title: "experiences",
+          description: "Research and industry experience.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/industry/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "My academic and professional background.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-press",
-          title: "press",
-          description: "Presentations, media appearances, and press coverage.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/press/";
+            window.location.href = "/experiences/";
           },
         },{id: "nav-hobbies",
           title: "hobbies",
@@ -393,20 +379,20 @@ ninja.data = [{
             },},{id: "news-started-internship-at-johns-hopkins-university-applied-physics-laboratory-jhu-apl-in-the-ai-neuroscience-and-complex-systems-group",
           title: 'Started internship at Johns Hopkins University Applied Physics Laboratory (JHU APL) in the...',
           description: "",
-          section: "News",},{id: "news-graduated-from-uprm-with-a-b-s-in-computer-science-and-engineering-with-curricular-sequence-in-cognitive-science-magna-cum-laude-gpa-3-83-4-00",
+          section: "News",},{id: "news-graduated-from-uprm-with-a-b-s-in-computer-science-and-engineering-with-curricular-sequence-in-cognitive-science-magna-cum-laude",
           title: 'Graduated from UPRM with a B.S. in Computer Science and Engineering with Curricular...',
           description: "",
           section: "News",},{id: "news-awarded-gem-fellowship-from-the-national-gem-consortium",
           title: 'Awarded GEM Fellowship from the National GEM Consortium.',
           description: "",
-          section: "News",},{id: "news-accepted-into-the-applied-mathematics-m-s-program-at-the-university-of-puerto-rico-mayagüez",
-          title: 'Accepted into the Applied Mathematics M.S. program at the University of Puerto Rico,...',
-          description: "",
-          section: "News",},{id: "news-working-on-m-s-thesis-approximating-a-compositional-homomorphism-of-minimalist-grammar-in-embedding-space",
-          title: 'Working on M.S. thesis: approximating a compositional homomorphism of Minimalist Grammar in embedding...',
+          section: "News",},{id: "news-started-the-applied-mathematics-m-s-program-at-the-university-of-puerto-rico-mayagüez",
+          title: 'Started the Applied Mathematics M.S. program at the University of Puerto Rico, Mayagüez....',
           description: "",
           section: "News",},{id: "news-presented-at-icaart-2026-in-marbella-spain-a-cognitively-plausible-neural-symbolic-model-for-syntactic-disambiguation-in-minimalist-grammar",
           title: 'Presented at ICAART 2026 in Marbella, Spain: “A Cognitively Plausible Neural-Symbolic Model for...',
+          description: "",
+          section: "News",},{id: "news-working-on-m-s-thesis-approximating-a-compositional-homomorphism-of-minimalist-grammar-in-embedding-space",
+          title: 'Working on M.S. thesis: approximating a compositional homomorphism of Minimalist Grammar in embedding...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -499,11 +485,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/carlos-leyva-capote", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.researchgate.net/profile/Carlos-Leyva-Capote/", "_blank");
         },
       },{
       id: 'light-theme',
