@@ -2,7 +2,7 @@
 layout: page
 title: hobbies
 permalink: /hobbies/
-description: Things I enjoy outside of research.
+description:
 nav: true
 nav_order: 4
 ---

@@ -23,7 +23,7 @@ nav_order: 3
 
 <div class="row mb-4 align-items-start">
   <div class="col-md-2 col-3 text-center pt-2">
-    <img src="/assets/img/logos/jhuapl.svg" class="img-fluid" style="max-height: 80px;" alt="JHU APL">
+    <img src="/assets/img/logos/jhuapl.png" class="img-fluid" style="max-height: 80px;" alt="JHU APL">
   </div>
   <div class="col-md-10 col-9">
     <h4 class="mb-1">Johns Hopkins University Applied Physics Laboratory</h4>
@@ -59,7 +59,7 @@ nav_order: 3
 
 <div class="row mb-4 align-items-start">
   <div class="col-md-2 col-3 text-center pt-2">
-    <img src="/assets/img/logos/mitll.svg" class="img-fluid" style="max-height: 80px;" alt="MIT Lincoln Laboratory">
+    <img src="/assets/img/logos/mitll.png" class="img-fluid" style="max-height: 80px;" alt="MIT Lincoln Laboratory">
   </div>
   <div class="col-md-10 col-9">
     <h4 class="mb-1">MIT Lincoln Laboratory</h4>
@@ -95,13 +95,13 @@ nav_order: 3
 
 <div class="row mt-4 mb-3">
   <div class="col-sm-6 mt-3 mt-md-0 text-center">
-    <p><em>Getting featured on Google's account</em></p>
+    <p><em>Click to see me featured on Google's IG:</em></p>
     <a href="https://www.instagram.com/reels/CvKnii0rAd5/" target="_blank">
       <img src="/assets/img/pixel-reel.png" class="img-fluid rounded z-depth-1" style="max-width: 280px;" alt="Google Pixel Instagram Reel">
     </a>
   </div>
   <div class="col-sm-6 mt-3 mt-md-0 text-center">
-    <p><em>Here's what my manager had to say...</em></p>
+    <p><em>Click to see what my manager had to say...</em></p>
     <a href="https://linkedin.com/in/carlos-leyva-capote" target="_blank">
       <img src="/assets/img/Max-Recommendation.png" class="img-fluid rounded z-depth-1" style="max-width: 360px;" alt="LinkedIn Recommendation">
     </a>
