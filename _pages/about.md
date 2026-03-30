@@ -17,6 +17,7 @@ profile:
 
 selected_papers: true
 social: true
+fun_fact: "Noam Chomsky is my great-grand advisor twice (C. Leyva &rarr; H. Alers &rarr; J. McCarthy / Barbara Partee &rarr; N. Chomsky)."
 
 announcements:
   enabled: true
@@ -31,10 +32,8 @@ latest_posts:
 
 ## Research Interests
 
-I am interested in using **computational cognitive modeling** to reveal our inductive biases and leverage those insights to build better learning systems (**Cognitive AI**). My work spans **language** as a medium for understanding cognition, and neural-symbolic approaches that bridge connectionist and symbolic paradigms.
+I am interested in using **computational cognitive modeling** to reveal our inductive biases and leverage those insights to build better learning systems (**Cognitive AI**). My work spans **language** as a medium for understanding cognition, and **neural-symbolic approaches** that bridge connectionist and symbolic paradigms.
 
 ## About Me
 
-At [UPRM](https://www.uprm.edu/) I am pursuing my **Applied Mathematics M.S.** with a concentration in scientific computing and numerical analysis, co-advised by [Roberto Rivera](https://www.uprm.edu/math/dt_team/roberto-rivera-santiago/) and [Hilton Alers-Valent&iacute;n](https://www.uprm.edu/p/linguistica/hilton). I am building a [Symbolic Parser](https://sandiway.arizona.edu/smtparser/index.html) and [Neural Performance Model (HASPNeL)](https://www.uprm.edu/cps-iot/nlp/) in collaboration with [Sandiway Fong](https://www.cs.arizona.edu/person/sandiway-fong) at the University of Arizona.
-
-<small><em>Fun fact: Noam Chomsky is my great-grand advisor twice (C. Leyva &rarr; H. Alers &rarr; J. McCarthy / Barbara Partee &rarr; N. Chomsky).</em></small>
+At [UPRM](https://www.uprm.edu/) I am pursuing my **Applied Mathematics M.S.** with a concentration in **numerical analysis**, co-advised by [Roberto Rivera](https://www.uprm.edu/math/dt_team/roberto-rivera-santiago/) and [Hilton Alers-Valent&iacute;n](https://www.uprm.edu/p/linguistica/hilton). I am building a [Competence and Performance Model (HASPNeL) of Language](https://www.uprm.edu/cps-iot/nlp/) in collaboration with [Sandiway Fong](https://www.cs.arizona.edu/person/sandiway-fong) at the University of Arizona.

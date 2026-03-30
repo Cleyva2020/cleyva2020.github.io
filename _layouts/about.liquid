@@ -63,6 +63,12 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    {% if page.fun_fact %}
+      <div class="mt-3 mb-3 text-center">
+        <small><em>Fun fact: {{ page.fun_fact }}</em></small>
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
