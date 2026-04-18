@@ -15,6 +15,15 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @inproceedings* %}
+{% bibliography --query @conference* %}
+
+</div>
+
+<h2 class="mt-4">presentations & posters</h2>
+
+<div class="publications">
+
+{% bibliography --query @misc* %}
 
 </div>

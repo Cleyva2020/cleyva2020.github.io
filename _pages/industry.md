@@ -16,6 +16,7 @@ nav_order: 3
     <p><strong>Research Assistant</strong> | Jan 2021 &ndash; Present</p>
     <p>Developing a cognitively plausible neural-symbolic parser for syntactic disambiguation in Minimalist Grammar, in collaboration with <a href="https://www.cs.arizona.edu/person/sandiway-fong">Sandiway Fong</a> at the University of Arizona. This work bridges formal linguistics and neural computation, exploring how symbolic grammatical constraints can be integrated with learned representations.</p>
     <p>Published at <strong>ICAART 2026</strong>: <a href="https://doi.org/10.5220/0014481700004052">"A Cognitively Plausible Neural-Symbolic Model for Syntactic Disambiguation in Minimalist Grammar."</a></p>
+    <p>Presentations: <a href="https://doi.org/10.5281/zenodo.19342701">"How do Humans Interpret Sentences?"</a> (ICAART) &bull; <a href="https://doi.org/10.5281/zenodo.14246313">"Hybrid Architecture Symbolic Parser and Neural Lexicon"</a> (IAP Poster) &bull; <a href="https://doi.org/10.5281/zenodo.14241654">"Bayesian N-gram Model for HASPNeL Lexical Likelihood Estimator"</a> (Workshop)</p>
     <p><a href="https://www.uprm.edu/portada/2022/12/16/nsf-computacion/" target="_blank">Featured in UPRM's NSF computing research article &rarr;</a></p>
   </div>
 </div>
@@ -29,6 +30,7 @@ nav_order: 3
     <h4 class="mb-1">Johns Hopkins University Applied Physics Laboratory</h4>
     <p><strong>AI Researcher</strong> &mdash; AI, Neuroscience, and Complex Systems Group | May 2025 &ndash; Present</p>
     <p>Developing a multimodal speech-decoding framework building on <a href="https://github.com/facebookresearch/av_hubert">AV-HuBERT</a>, fusing video, audio, and neural signals to support assistive communication for speakers with dysarthria. Conducted modality ablation studies, improving Phoneme Error Rate by 12% and Word Error Rate by 11% over baseline.</p>
+    <p>Presentations: <a href="https://doi.org/10.5281/zenodo.19644261">"Multimodal Speech Recognition"</a> &bull; <a href="https://doi.org/10.5281/zenodo.19644394">"Materials Engineering and Technology for Autonomous Labs"</a> &bull; <a href="https://doi.org/10.5281/zenodo.19644446">Poster</a></p>
   </div>
 </div>
 <hr>
@@ -66,6 +68,7 @@ nav_order: 3
     <p><strong>Research Co-op</strong> &mdash; AI Technology and Systems Group | May 2022 &ndash; Dec 2024</p>
     <p>Conducted adversarial robustness studies achieving 92% obfuscation and 78% impersonation success rates via LLM-based attacks.</p>
     <p>Published at <strong>NAACL 2025</strong>: <a href="https://arxiv.org/abs/2503.19099">"Masks and Mimicry: Strategic Obfuscation and Impersonation Attacks on Authorship Verification."</a></p>
+    <p>Presentations: <a href="https://doi.org/10.5281/zenodo.14246264">"Platform Understanding: Reddit Topic Modeling and Summarization"</a> &bull; <a href="https://doi.org/10.5281/zenodo.14246178">"Author Impersonation: Designing the Reward Function"</a> &bull; <a href="https://doi.org/10.5281/zenodo.14246141">"Author Obfuscation and Impersonation: Idiolect Style Transfer"</a></p>
   </div>
 </div>
 <hr>
@@ -78,6 +81,7 @@ nav_order: 3
     <h4 class="mb-1">NSF Local-REU @ UPRM</h4>
     <p><strong>Researcher</strong> &mdash; Hybrid Paradigms in AI | Sep 2023 &ndash; Nov 2024</p>
     <p>Synthesized literature on symbolic vs. connectionist approaches to analyze the divergence between LLM reasoning and human cognitive processes in structured tasks. Presented poster at Great Minds in STEM (GMiS) conference, Nov 2024.</p>
+    <p>Presentation: <a href="https://doi.org/10.5281/zenodo.14252136">"Symbolic Systems in Hybrid Architectures for Cognitive Modeling"</a> (GMiS)</p>
   </div>
 </div>
 <hr>
@@ -117,5 +121,16 @@ nav_order: 3
     <h4 class="mb-1">Google Cloud Platform</h4>
     <p><strong>STEP Intern</strong> &mdash; Proactive Intelligence Team | May 2022 &ndash; Aug 2022</p>
     <p>Delivered end-to-end Natural Language Understanding feature for proactive assistive suggestions in Google Workspace.</p>
+  </div>
+</div>
+<hr>
+
+<div class="row mb-4 align-items-start">
+  <div class="col-md-2 col-3 text-center pt-2">
+    <img src="/assets/img/logos/uprm.png" class="img-fluid" style="max-height: 80px;" alt="UPRM">
+  </div>
+  <div class="col-md-10 col-9">
+    <h4 class="mb-1">Computer Science and Engineering Department @ UPRM</h4>
+    <p><strong>Teaching Assistant</strong> &mdash; Advanced Programming in C++ | Sep 2021 &ndash; May 2022</p>
   </div>
 </div>
