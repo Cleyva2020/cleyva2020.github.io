@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Computer Science &amp; Engineering with Cognitive Science B.S. &bull; Applied Mathematics M.S. &bull; Aspiring PhD Researcher
+  Computer Science &amp; Engineering with Cognitive Science B.S. &bull; Applied Mathematics M.S.
 
 profile:
   align: right
@@ -37,3 +37,5 @@ I am interested in using **computational cognitive modeling** to reveal our indu
 ## about me
 
 At [UPRM](https://www.uprm.edu/) I am pursuing my **Applied Mathematics M.S.** with a concentration in **numerical analysis**, co-advised by [Roberto Rivera](https://www.uprm.edu/math/dt_team/roberto-rivera-santiago/) and [Hilton Alers-Valent&iacute;n](https://www.uprm.edu/p/linguistica/hilton). I am building a [Competence](https://sandiway.arizona.edu/smtparser/index.html) and [Performance Model (HASPNeL) of Language](https://www.uprm.edu/cps-iot/nlp/) in collaboration with [Sandiway Fong](https://sandiway.arizona.edu/) at the University of Arizona.
+
+I am also **CTO** at [Runa Labs](https://www.joinruna.com), building the cognitive architecture of the agentic company, starting with meetings as searchable company memory.

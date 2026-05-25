@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2026-03-30 00:00:00-0400
-date_string: currently
+date: 2026-01-12 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Working on M.S. thesis: **approximating a compositional homomorphism of Minimalist Grammar in embedding space**.
+Proposed M.S. thesis: **Approximating a Compositional Homomorphism of Minimalist Grammar in Embedding Space**.
